@@ -40,9 +40,9 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|a|a|a|a|a|a|a|a|a|a|
-|1|a|a|a|a|a|a|a|a|a|a|
-|2|a|a|a|a|a|a|a|a|a|a|
+|0|Java|C|C++|Go|Rust|Python|Ruby|Implementation|Definition|Reference|
+|1|Crystal|Forth|Prolog|Smalltalk|Common Lisp|Scheme|Algoritms|Functional|Imperitive|Object Oriented|
+|2|Factor|Carbon|Lambda Calculus|Computer Hardware|Embedded Software|Tooling|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
 |4|a|a|a|a|a|a|a|a|a|a|
 |5|a|a|a|a|a|a|a|a|a|a|
