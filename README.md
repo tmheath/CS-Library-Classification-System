@@ -12,6 +12,15 @@ This is designed only for computer science related information to be cataloged a
 is a point of two coordinates, the top row followed by the left side. Data points are inserted in no order (The order is my opinion on what I want
 adjacent to which topic fundamentally).
 
+|Identifier|Type|Description|
+|----------|----|-----------|
+|          |Class|The Highest Level Genre|
+|    ,     |Personality|The Focal Point of the Subject|
+|    ;     |Property|The Materials of the Subject|
+|    :     |Energy|The Operations of the Subject|
+|    .     |Space|The Location of the Subject|
+|    '     |Season|The Time for the Subject|
+
 ### Table of Classes
 
 |-|0|1|2|3|4|5|6|7|8|9|
