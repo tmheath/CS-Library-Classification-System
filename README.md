@@ -55,7 +55,7 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|a|a|a|a|a|a|a|a|a|a|
+|0|Practical|Abstract|Theory|Nonsensical|Technique|Item(s)|a|a|a|a|
 |1|a|a|a|a|a|a|a|a|a|a|
 |2|a|a|a|a|a|a|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
@@ -70,7 +70,7 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|a|a|a|a|a|a|a|a|a|a|
+|0|Demonstration|Guide|Reference|Proof|Formal|Textbook|Manual|Colloquial|Academic|a|
 |1|a|a|a|a|a|a|a|a|a|a|
 |2|a|a|a|a|a|a|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
@@ -85,7 +85,7 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|a|a|a|a|a|a|a|a|a|a|
+|0|NA|Bell Labs|Redmond|MIT|a|a|a|a|a|a|
 |1|a|a|a|a|a|a|a|a|a|a|
 |2|a|a|a|a|a|a|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
@@ -100,7 +100,7 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|a|a|a|a|a|a|a|a|a|a|
+|0|NA|01/01/1970|a|a|a|a|a|a|a|a|
 |1|a|a|a|a|a|a|a|a|a|a|
 |2|a|a|a|a|a|a|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
