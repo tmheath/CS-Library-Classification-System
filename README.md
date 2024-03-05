@@ -12,18 +12,18 @@ This is designed only for computer science related information to be cataloged a
 
 ### Table of Classes
 
-||0|1|2|3|4|5|6|7|8|9|
-||-|-|-|-|-|-|-|-|-|-|
-|0|||||||||||
-|1|||||||||||
-|2|||||||||||
-|3|||||||||||
-|4|||||||||||
-|5|||||||||||
-|6|||||||||||
-|7|||||||||||
-|8|||||||||||
-|9|||||||||||
+|-|0|1|2|3|4|5|6|7|8|9|
+|-|-|-|-|-|-|-|-|-|-|-|
+|0|a|a|a|a|a|a|a|a|a|a|
+|1|a|a|a|a|a|a|a|a|a|a|
+|2|a|a|a|a|a|a|a|a|a|a|
+|3|a|a|a|a|a|a|a|a|a|a|
+|4|a|a|a|a|a|a|a|a|a|a|
+|5|a|a|a|a|a|a|a|a|a|a|
+|6|a|a|a|a|a|a|a|a|a|a|
+|7|a|a|a|a|a|a|a|a|a|a|
+|8|a|a|a|a|a|a|a|a|a|a|
+|9|a|a|a|a|a|a|a|a|a|a|
 
 ### Table of Personalities
 
