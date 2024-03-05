@@ -149,6 +149,15 @@ The Unix Epoch is prominent.
 
 Put together.
 
+For shelving purposes, only the digits matter.
+
+301000401010
+
+The digits towards the left are most important for
+shelving order and the digits to the right are least
+important for shelving order. Lower values are shelved
+before higher values.
+
 ## Shelving Order
 
 Books will be shelved lowest value first in the order of the fields from left to right according to the classification.
