@@ -170,3 +170,5 @@ IE:
 | Let Over Lambda | LoL | Doug Hoyte | LuLu.com  | April 2, 2008  | x              |||
 | Land Of Lisp |  | x | x | x | x |||
 | Introduction to Functional Programming Using the Lambda Calculus || x | x | x | x |||
+
+A CSV will further catalogue all books as MARC entries.
