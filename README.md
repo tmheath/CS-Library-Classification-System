@@ -4,8 +4,8 @@ This system is based on the [Colon Classification System](https://en.wikipedia.o
 easily across various languages.
 
 
-| Title           | Author     | Publisher | Date Published | Classification |
-| ----------------|------------|-----------|----------------|--------------- |
-| Let Over Lambda | Doug Hoyte | LuLu.com  | April 2, 2008  | x              |
-| Land Of Lisp | x | x | x | x |
-| Introduction to Functional Programming Using the Lambda Calculus | x | x | x | x |
+| Title           | Common Name | Author     | Publisher | Date Published | Classification |
+| ----------------| ----------- |------------|-----------|----------------|--------------- |
+| Let Over Lambda | LoL | Doug Hoyte | LuLu.com  | April 2, 2008  | x              |
+| Land Of Lisp |  | x | x | x | x |
+| Introduction to Functional Programming Using the Lambda Calculus || x | x | x | x |
