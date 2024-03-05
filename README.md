@@ -8,7 +8,9 @@ easily across various languages.
 
 ## Definition
 This is a speacialised version of the Colon Classification based on the information presenting within the wikipedia article as of 1:19 PM 3/5/2024.
-This is designed only for computer science related information to be cataloged and is not general purpose.
+This is designed only for computer science related information to be cataloged and is not general purpose. For the purposes of writing, each field
+is a point of two coordinates, the top row followed by the left side. Data points are inserted in no order (The order is my opinion on what I want
+adjacent to which topic fundamentally).
 
 ### Table of Classes
 
