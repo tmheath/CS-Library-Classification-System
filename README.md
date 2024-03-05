@@ -113,6 +113,42 @@ adjacent to which topic fundamentally).
 
 ### Examples
 
+Given a textbook on the C Programming Language and it's ties to Unix...
+
+30
+
+The book is teaching a programming language.
+
+
+,10
+
+The book is focussed on C
+
+
+;00
+
+The book is practicality focused.
+
+
+:40
+
+The book is a textbook for a student.
+
+
+.10
+
+Bell Labs is prominent.
+
+
+'10
+
+The Unix Epoch is prominent.
+
+
+30,10;00:40.10'10
+
+Put together.
+
 ## Shelving Order
 
 Books will be shelved lowest value first in the order of the fields from left to right according to the classification.
