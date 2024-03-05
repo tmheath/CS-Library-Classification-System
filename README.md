@@ -165,8 +165,8 @@ IE:
 
 ## Catologue
 
-| Title           | Common Name | Author     | Publisher | Date Published | Classification |MLA Citation|
-| ----------------| ----------- |------------|-----------|----------------|--------------- |------------|
-| Let Over Lambda | LoL | Doug Hoyte | LuLu.com  | April 2, 2008  | x              ||
-| Land Of Lisp |  | x | x | x | x ||
-| Introduction to Functional Programming Using the Lambda Calculus || x | x | x | x ||
+| Title           | Common Name | Author     | Publisher | Date Published | Classification |MLA Citation|ISBN|
+| ----------------| ----------- |------------|-----------|----------------|--------------- |------------|----|
+| Let Over Lambda | LoL | Doug Hoyte | LuLu.com  | April 2, 2008  | x              |||
+| Land Of Lisp |  | x | x | x | x |||
+| Introduction to Functional Programming Using the Lambda Calculus || x | x | x | x |||
