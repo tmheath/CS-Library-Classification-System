@@ -5,6 +5,6 @@ easily across various languages.
 
 | Title | Author | Publisher | Date Published | Classification |
 ----------------------------------------------------------------
-|Let Over Lambda|Doug Hoyte|LuLu.com|April 2, 2008||
-|Land Of Lisp|||||
-|Introduction to Functional Programming Using the Lambda Calculus|||||
+| Let Over Lambda | Doug Hoyte | LuLu.com | April 2, 2008 | x |
+| Land Of Lisp | x | x | x | x |
+| Introduction to Functional Programming Using the Lambda Calculus | x | x | x | x |
