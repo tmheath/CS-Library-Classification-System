@@ -16,7 +16,7 @@ adjacent to which topic fundamentally).
 
 |-|0|1|2|3|4|5|6|7|8|9|
 |-|-|-|-|-|-|-|-|-|-|-|
-|0|Data Structures|Unix|Utilities|Programming Languages|System Administration|Operating Systems|Language Design|InfoSec|MS Windows|Computer Networking|
+|0|Data Structures|Unix|Utilities|Programming Languages|System Administration|Operating Systems|Language Design|InfoSec|Computer Networking|MS Windows|
 |1|Programming Paradigms|Mathematica|General Fun|Miscelaneous Reference|General Guide|a|a|a|a|a|
 |2|a|a|a|a|a|a|a|a|a|a|
 |3|a|a|a|a|a|a|a|a|a|a|
